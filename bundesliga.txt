@@ -1,0 +1,32 @@
+Greuther Furth: 0.44
+Bayern Munich: 92.07
+draw : 2.27
+ 
+Hoffenheim: 37.30
+Wolfsburg: 32.10
+draw : 30.60
+ 
+Union Berlin: 51.33
+Bielefeld: 10.66
+draw : 38.00
+ 
+Leverkusen: 38.61
+Mainz: 23.00
+draw : 38.39
+ 
+RB Leipzig: 63.58
+Hertha: 10.47
+draw : 25.95
+ 
+Ein Frankfurt: 59.44
+FC Koln: 17.26
+draw : 23.28
+ 
+M'gladbach: 25.34
+Dortmund: 56.15
+draw : 18.36
+ 
+Bochum: 25.95
+Stuttgart: 43.26
+draw : 30.78
+ 

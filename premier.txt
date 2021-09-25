@@ -1,0 +1,40 @@
+Chelsea: 36.57
+Man City: 31.43
+draw : 31.99
+ 
+Man United: 64.19
+Aston Villa: 14.67
+draw : 21.13
+ 
+Leicester: 60.36
+Burnley: 18.69
+draw : 20.94
+ 
+Everton: 76.48
+Norwich: 5.22
+draw : 18.29
+ 
+Leeds: 33.70
+West Ham: 41.94
+draw : 24.37
+ 
+Watford: 26.73
+Newcastle: 52.33
+draw : 20.93
+ 
+Brentford: 35.83
+Liverpool: 25.05
+draw : 39.12
+ 
+Southampton: 31.91
+Wolves: 35.07
+draw : 33.02
+ 
+Arsenal: 40.70
+Tottenham: 33.34
+draw : 25.96
+ 
+Crystal Palace: 22.65
+Brighton: 45.36
+draw : 31.99
+ 

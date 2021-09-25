@@ -1,0 +1,7 @@
+import numpy as np
+import matplotlib as plt
+
+x=np.linspace(0,100,100)
+y=np.sin(x)
+print 'hay ausencias que significan un ...'
+

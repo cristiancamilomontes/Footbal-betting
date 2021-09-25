@@ -1,0 +1,40 @@
+Spezia: 12.54
+Milan: 70.28
+draw : 17.17
+ 
+Inter: 65.99
+Atalanta: 14.92
+draw : 19.08
+ 
+Genoa: 52.43
+Verona: 24.67
+draw : 22.90
+ 
+Juventus: 59.49
+Sampdoria: 17.00
+draw : 23.51
+ 
+Udinese: 34.27
+Fiorentina: 40.25
+draw : 25.48
+ 
+Sassuolo: 85.47
+Salernitana: 4.86
+draw : 9.48
+ 
+Empoli: 30.07
+Bologna: 45.68
+draw : 24.25
+ 
+Lazio: 41.42
+Roma: 34.77
+draw : 23.81
+ 
+Napoli: 75.96
+Cagliari: 8.53
+draw : 15.49
+ 
+Venezia: 19.17
+Torino: 53.31
+draw : 27.52
+ 

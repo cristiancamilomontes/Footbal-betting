@@ -1,0 +1,8 @@
+Monaco: 51.20
+Nantes: 19.50
+draw : 29.30
+ 
+Rennes: 40.55
+Marseille: 27.68
+draw : 31.77
+ 

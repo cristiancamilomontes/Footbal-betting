@@ -1,0 +1,40 @@
+Alaves: 8.98
+Ath Madrid: 67.57
+draw : 23.44
+ 
+Valencia: 29.97
+Ath Bilbao: 35.40
+draw : 34.63
+ 
+Sevilla: 52.36
+Espanol: 10.64
+draw : 37.01
+ 
+Real Madrid: 66.03
+Villarreal: 12.93
+draw : 21.02
+ 
+Mallorca: 24.73
+Osasuna: 39.19
+draw : 36.09
+ 
+Barcelona: 76.07
+Levante: 7.21
+draw : 16.67
+ 
+Vallecano: 71.45
+Cadiz: 8.98
+draw : 19.55
+ 
+Sociedad: 62.50
+Elche: 10.61
+draw : 26.88
+ 
+Betis: 61.53
+Getafe: 7.99
+draw : 30.48
+ 
+Celta: 58.20
+Granada: 19.19
+draw : 22.60
+ 
